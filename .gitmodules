@@ -1,3 +1,6 @@
 [submodule "fft"]
 	path = fft
 	url = git@github.com:likooooo/fft.git
+[submodule "cuda-samples"]
+	path = cuda-samples
+	url = git@github.com:likooooo/cuda-samples.git

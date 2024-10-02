@@ -1,0 +1,1 @@
+["Euler equations"](https://en.wikipedia.org/wiki/Euler_equations_(fluid_dynamics))
